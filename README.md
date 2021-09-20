@@ -1,6 +1,6 @@
 <h2> About Me <h2>
-  - Bachelor of Science Degree in Electronics & Control Engineering, Hanbat Univ
-  
+  - Bachelor of Science Degree in Electronics & Control Engineering, Hanbat Univ (03/2013 - 02/2020)
+  - Complete military service at the Republic of Korea Army as self-propelled gun maintenance soldier (02/2014 - 11/2015)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
