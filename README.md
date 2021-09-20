@@ -1,7 +1,7 @@
 <h2>About Me</h2>
  
  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
- <a href= https://www.youtube.com/channel/UC62h-CTEEMzq25KN37JFddQ >![YouTube](https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+ <a href= https://www.youtube.com/channel/UC62h-CTEEMzq25KN37JFddQ >![YouTube](https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 
 
  > * __I'm on my way to becoming a autonomous driving software engineer.__
@@ -14,7 +14,7 @@
   
 <h2> Projects </h2>
  
-  > * <a href= https://github.com/kbs907/final_project/tree/master > Autonomous driving competition of Programmers Dev Course (08/2021 - 09/2021) 
+  > * <a href= https://github.com/kbs907/final_project/tree/master > Autonomous driving competition of Programmers Dev Course (08/2021 - 09/2021)  </a>
   >
   > *  Cartographer SLAM & stanley method in a simulator made of unity provided by xytron  (07/2021 - 08/2021) 
   >
