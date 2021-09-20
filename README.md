@@ -20,7 +20,7 @@
   >
   > *  Autonomous driving using 2D lidar sensors through DDPG learning  (06/2021 - 07/2021)
   >
-  > *  End to End driving  (03/2021 - 04/2021)
+  > *  <a href= https://github.com/kbs907/endtoend_driving > End to End driving  (03/2021 - 04/2021) </a>
   >
   > *  <a href= https://github.com/kbs907/2nd-monthly-project > DQN driving using ultrasonic sensors (02/2021 - 03/2021)</a>
   >
