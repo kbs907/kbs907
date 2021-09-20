@@ -1,6 +1,6 @@
 <h2>About Me</h2>
  
- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+ <a href= https://www.linkedin.com/in/%EB%B3%91%EC%88%98-%EA%B9%80-0b265320b/>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
  <a href= https://www.youtube.com/channel/UC62h-CTEEMzq25KN37JFddQ >![YouTube](https://img.shields.io/badge/<YouTube>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 
 
