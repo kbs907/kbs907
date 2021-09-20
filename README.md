@@ -1,6 +1,20 @@
 <h2> About Me <h2>
-  - Bachelor of Science Degree in Electronics & Control Engineering, Hanbat Univ (03/2013 - 02/2020)
-  - Complete military service at the Republic of Korea Army as self-propelled gun maintenance soldier (02/2014 - 11/2015)
+
+ > * <h6> I'm on my way to becoming a autonomous driving software engineer.<h6> 
+ > 
+ > * <h6>Recently, I participated in the Autonomous Driving Dev course organized by Grepp as student in the first generation (12/2020 - 04/2021) and as a mentor in the second generation (04/2021 - 09/2021)<h6>
+ > 
+ > * <h6>Bachelor of Science Degree in Electronics & Control Engineering, Hanbat Univ (03/2013 - 02/2020)<h6>
+ > 
+ > * <h6>Complete military service at the Republic of Korea Army as self-propelled gun maintenance soldier (02/2014 - 11/2015)<h6>
+  
+<h2> Projects <h2>
+ 
+  > * <h6><a href= https://github.com/kbs907/final_project/tree/master > Autonomous driving competition of Programmers Dev Course (08/2021 - 09/2021) <h6>
+  
+  > * <h6><a href= https://github.com/kbs907/final_project/tree/master > Autonomous driving competition of Programmers Dev Course (08/2021 - 09/2021) <h6>
+
+  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
