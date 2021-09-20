@@ -22,7 +22,7 @@
   >
   > *  End to End driving  (03/2021 - 04/2021)
   >
-  > *  <a href= https://github.com/kbs907/final_project/tree/master > DQN driving using ultrasonic sensors (02/2021 - 03/2021)</a>
+  > *  <a href= https://github.com/kbs907/2nd-monthly-project > DQN driving using ultrasonic sensors (02/2021 - 03/2021)</a>
   >
   > *  Optimal path planning with Frenet frame in RVIZ (02/2021)
  
