@@ -1,11 +1,8 @@
-<h2> 
- 
- About Me
+<h2>About Me</h2>
  
  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
  <a href= https://www.youtube.com/channel/UC62h-CTEEMzq25KN37JFddQ >![YouTube](https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-</h2>
 
  > * __I'm on my way to becoming a autonomous driving software engineer.__
  > 
