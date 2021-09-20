@@ -6,7 +6,7 @@
 
  > * __I'm on my way to becoming a autonomous driving software engineer.__
  > 
- > * Recently, I participated in the Autonomous Driving Dev course organized by Grepp as student in the first generation (12/2020 - 04/2021) and as a mentor in the second generation (04/2021 - 09/2021)
+ > * Recently, I participated in the Autonomous Driving Dev course organized by Grepp </br>as student in the first generation (12/2020 - 04/2021) and </br>as a mentor in the second generation (04/2021 - 09/2021)
  > 
  > * Bachelor of Science Degree in Electronics & Control Engineering, Hanbat Univ (03/2013 - 02/2020)
  > 
