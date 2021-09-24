@@ -18,13 +18,13 @@
   >
   > *  Cartographer SLAM & stanley method in a simulator made of unity provided by xytron  (07/2021 - 08/2021) 
   >
-  > *  <a href= https://github.com/kbs907/DDPG-driving-using-LiDAR-in-a-simulator >DDPG driving using 2D lidar (06/2021 - 07/2021) </
+  > *  <a href= https://github.com/kbs907/DDPG-driving-using-LiDAR-in-a-simulator >DDPG driving using 2D lidar (06/2021 - 07/2021) </a>
   >
   > *  <a href= https://github.com/kbs907/endtoend_driving > End to End driving  (03/2021 - 04/2021) </a>
   >
   > *  <a href= https://github.com/kbs907/2nd-monthly-project > DQN driving using ultrasonic sensors (02/2021 - 03/2021)</a>
   >
-  > *  Optimal path planning with Frenet frame in RVIZ (02/2021)
+  > *  <a href= https://github.com/kbs907/optimal-trajectory-planning-in-frenet-frame.> Optimal trejectory planning int Frenet frame (02/2021) </a>
  
  <h2> Skills </h2>
   
