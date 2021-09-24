@@ -18,7 +18,7 @@
   >
   > *  Cartographer SLAM & stanley method in a simulator made of unity provided by xytron  (07/2021 - 08/2021) 
   >
-  > *  DDPG driving using 2D lidar (06/2021 - 07/2021)
+  > *  <a href= https://github.com/kbs907/DDPG-driving-using-LiDAR-in-a-simulator >DDPG driving using 2D lidar (06/2021 - 07/2021) </
   >
   > *  <a href= https://github.com/kbs907/endtoend_driving > End to End driving  (03/2021 - 04/2021) </a>
   >
