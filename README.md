@@ -14,6 +14,8 @@
   
 <h2> Projects </h2>
  
+  > * <a href= https://github.com/kbs907/PathPlanning > Implementation of path planning methods (09/2021 ~) </a>
+  > 
   > * <a href= https://github.com/kbs907/final_project/tree/master > Autonomous driving competition of Programmers Dev Course (08/2021 - 09/2021)  </a>
   >
   > *  Cartographer SLAM & stanley method in a simulator made of unity provided by xytron  (07/2021 - 08/2021) 
