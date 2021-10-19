@@ -26,7 +26,7 @@
   >
   > *  <a href= https://github.com/kbs907/2nd-monthly-project > DQN driving using ultrasonic sensors (02/2021 - 03/2021)</a>
   >
-  > *  <a href= https://github.com/kbs907/optimal-trajectory-planning-in-frenet-frame.> Optimal trejectory planning int Frenet frame (02/2021) </a>
+  > *  <a href= https://github.com/kbs907/optimal-trajectory-planning-in-frenet-frame.> Optimal trejectory planning in Frenet frame (02/2021) </a>
  
  <h2> Skills </h2>
   
