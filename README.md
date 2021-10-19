@@ -13,12 +13,14 @@
  > * Complete military service at the Republic of Korea Army as self-propelled gun maintenance soldier (02/2014 - 11/2015)
   
 <h2> Projects </h2>
- 
-  > * <a href= https://github.com/kbs907/PathPlanning > Implementation of path planning methods (09/2021 ~) </a>
-  > 
-  > * <a href= https://github.com/kbs907/final_project/tree/master > Autonomous driving competition of Programmers Dev Course (08/2021 - 09/2021)  </a>
+
+  > <h3> Planning </h3>
   >
-  > *  Cartographer SLAM & stanley method in a simulator made of unity provided by xytron  (07/2021 - 08/2021) 
+  > * <a href= https://github.com/kbs907/PathPlanning > Implementation of path planning methods (09/2021 ~) </a>
+  >
+  > *  <a href= https://github.com/kbs907/optimal-trajectory-planning-in-frenet-frame.> Optimal trejectory planning in Frenet frame (02/2021) </a>
+  >
+  > <h3> ML/DL </h3>
   >
   > *  <a href= https://github.com/kbs907/DDPG-driving-using-LiDAR-in-a-simulator >DDPG driving using 2D lidar (06/2021 - 07/2021) </a>
   >
@@ -26,7 +28,13 @@
   >
   > *  <a href= https://github.com/kbs907/2nd-monthly-project > DQN driving using ultrasonic sensors (02/2021 - 03/2021)</a>
   >
-  > *  <a href= https://github.com/kbs907/optimal-trajectory-planning-in-frenet-frame.> Optimal trejectory planning in Frenet frame (02/2021) </a>
+  > <h3> Competition </h3>
+  > 
+  > * <a href= https://github.com/kbs907/final_project/tree/master > Autonomous driving competition of Programmers Dev Course (08/2021 - 09/2021)  </a>
+  >
+  > <h3> Others </h3>
+  > 
+  > *  Cartographer SLAM & stanley method in a simulator made of unity provided by xytron  (07/2021 - 08/2021) 
  
  <h2> Skills </h2>
   
